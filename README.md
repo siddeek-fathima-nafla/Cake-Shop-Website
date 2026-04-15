@@ -24,4 +24,9 @@ This website is designed to showcase different types of cakes with a clean and a
 1. Download or clone the repository
 2. Open 'index.html' in any browser
 
+## 🌐 Live Demo
+
+Check out the live website here:  
+👉 https://siddeek-fathima-nafla.github.io/Cake-Shop-Website/
+
 
